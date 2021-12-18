@@ -11,7 +11,7 @@ And yes I'm owner website https://hololivewikith.com 🤗
 - C Ardunio (IoT project)
 - Golang (IDK. Why I learning 😂)
 
-## </ Database da>
+## </ Database >
 - MySQL (For a little bit project)
 - PostgreSQL (For a big data)
 - MongoDB (For big reading and performance)
