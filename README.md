@@ -1,7 +1,7 @@
 # </ M-307 >
 I'm student from ollege of Integrated Science and Technology.
 
-And yup I'm owner website https://hololivewikith.com 🤗
+And yes I'm owner website https://hololivewikith.com 🤗
 
 ## </ Coding languege >
 - Python (Server side, API, Machine learing, scraping)
