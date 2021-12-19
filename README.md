@@ -1,5 +1,5 @@
 # </ M-307 >
-I'm student from ollege of Integrated Science and Technology.
+I'm student from College of Integrated Science and Technology.
 
 And yes I'm owner website https://hololivewikith.com 🤗
 
