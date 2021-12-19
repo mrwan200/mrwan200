@@ -7,6 +7,7 @@ And yes I'm owner website https://hololivewikith.com 🤗
 - Python (Server side, API, Machine learing, scraping)
 - Vue.js (Web front end)
 - HTML (Web front end)
+- PHP (Web front end, Server side)
 - Javacript & Typescript (Web front end, Server side, API)
 - C Ardunio (IoT project)
 - Golang (IDK. Why I learning 😂)
