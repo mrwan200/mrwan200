@@ -4,7 +4,7 @@ I'm student from College of Integrated Science and Technology.
 And yes I'm owner website https://hololivewikith.com 🤗
 
 ## </ Coding languege >
-- Python (Server side, API, Machine learing, scraping)
+- Python (Server side, API, ~~Machine learning~~(I still waiting...), scraping)
 - Vue.js (Web front end)
 - HTML (Web front end)
 - PHP (Web front end, Server side)
