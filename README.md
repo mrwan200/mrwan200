@@ -4,11 +4,11 @@ I'm student from Rajamangala University of Technology Lanna major of Computer En
 And yes I'm owner website https://hololivewikith.com 🤗
 
 ## </ Coding languege >
-- Python (Server side, API, ~~Machine learning~~(I still waiting...), scraping)
+- Python (Server side, API, ~~Machine learning~~(I still waiting...), Discord bot, scraping)
 - Vue.js (Web front end)
 - HTML (Web front end)
 - PHP (Web front end, Server side)
-- Javacript & Typescript (Web front end, Server side, API)
+- Javacript & Typescript (Web front end, Server side, API, Discord bot)
 - C Ardunio (IoT project)
 - Golang (IDK. Why I learning 😂)
 
@@ -23,6 +23,7 @@ And yes I'm owner website https://hololivewikith.com 🤗
 - [hotelsystem](https://github.com/mrwan200/hotelsystem) `Hotelsystem for booking room of hotel`
 - [Discord-Techtalk](https://github.com/mrwan200/Discord-Tech-Talk) `Discord teck-talk like clubhouse`
 - [Enkanetwork.py](https://github.com/mrwan200/EnkaNetwork.py) `Enkanetwork for fetch UID from genshin impact`
+And more...
 
 ## </ Language >
 - 🇹🇭 [ Thailand ]: My language
@@ -31,5 +32,4 @@ And yes I'm owner website https://hololivewikith.com 🤗
 
 ## </ My github stats >
 ![mrwan200's GitHub stats](https://github-readme-stats.vercel.app/api?username=mrwan200&show_icons=true&theme=tokyonight)
-
 ![mrwan200's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=mrwan200&langs_count=5&theme=tokyonight)
