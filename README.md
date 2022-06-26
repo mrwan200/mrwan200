@@ -17,6 +17,12 @@ And yes I'm owner website https://hololivewikith.com 🤗
 - PostgreSQL (For a big data)
 - MongoDB (For big reading and performance)
 
+## </ My project >
+- [pytwitterscraper](https://github.com/mrwan200/pytwitterscraper) `Twitter scraper with python`
+- [holonotify](https://github.com/mrwan200/holonotify_discord) `Hoilolive notify with discord bot`
+- [hotelsystem](https://github.com/mrwan200/hotelsystem) `Hotelsystem for booking room of hotel`
+- [Discord-Techtalk](https://github.com/mrwan200/Discord-Tech-Talk) `Discord teck-talk like clubhouse`
+
 ## </ My github stats >
 ![mrwan200's GitHub stats](https://github-readme-stats.vercel.app/api?username=mrwan200&show_icons=true&theme=tokyonight)
 
