@@ -3,6 +3,8 @@ I'm student from Rajamangala University of Technology Lanna major of Computer En
 
 And yes I'm owner website https://hololivewikith.com 🤗
 
+If you want contact some project or suggestion. You can join this discord server [here](https://discord.gg/6wADjB4qtD)
+
 ## </ Coding languege >
 - Python (Server side, API, ~~Machine learning~~(I still waiting...), Discord bot, scraping)
 - Vue.js (Web front end)
