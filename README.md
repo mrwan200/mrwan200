@@ -33,5 +33,5 @@ And more...
 - 🇯🇵 [ Japan ]: I can't 
 
 ## </ My github stats >
-![mrwan200's GitHub stats](https://github-readme-stats.vercel.app/api?username=mrwan200&show_icons=true&theme=tokyonight)
-![mrwan200's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=mrwan200&langs_count=5&theme=tokyonight)
+![mrwan200's GitHub stats](https://stat-card.000198.xyz/api?username=mrwan200&show_icons=true&theme=tokyonight)
+![mrwan200's GitHub stats](https://stat-card.000198.xyz/api/top-langs/?username=mrwan200&langs_count=5&theme=tokyonight)
