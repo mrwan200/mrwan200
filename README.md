@@ -12,13 +12,13 @@ If you want contact some project or suggestion. You can join this discord server
 - PHP (Web front end, Server side)
 - Javacript & Typescript (Web front end, Server side, API, Discord bot)
 - C Ardunio (IoT project)
-- Golang (IDK. Why I learning 😂)
+- Golang (Soon! )
 
 ## </ Database >
 - MySQL (For a little bit project)
 - PostgreSQL (For a big data)
 - MongoDB (For big reading and performance)
-
+🔥
 ## </ My project >
 - [pytwitterscraper](https://github.com/mrwan200/pytwitterscraper) `Twitter scraper with python`
 - [holonotify](https://github.com/mrwan200/holonotify_discord) `Hoilolive notify with discord bot`
@@ -30,7 +30,7 @@ And more...
 ## </ Language >
 - 🇹🇭 [ Thailand ]: My language
 - 🇬🇧 [ English ]: A little bit
-- 🇯🇵 [ Japan ]: I can't 
+- 🇯🇵 [ Japan ]: I can't
 
 ## </ My github stats >
 ![mrwan200's GitHub stats](https://stat-card.000198.xyz/api?username=mrwan200&show_icons=true&theme=tokyonight)
